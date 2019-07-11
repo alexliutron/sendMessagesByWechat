@@ -10,7 +10,6 @@ Created on Fri Jun 21 10:59:22 2019
 import requests
 import itchat
 
-import itchat
 
 
 
